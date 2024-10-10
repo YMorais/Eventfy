@@ -14,9 +14,9 @@ O projeto possui o objetivo de ajudar e facilitar a busca por eventos em sua cid
  - Criar cadastro: Criar um cadastro para o usuário.
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- - Html
- - Css
- - Bootstrap
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ## Autores
 - Yasmim Bueno de Morais - GitHub - https://github.com/YMorais/
 ## Licença
